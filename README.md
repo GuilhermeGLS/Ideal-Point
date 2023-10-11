@@ -1,4 +1,5 @@
 ![Site Ideal Point](asserts/imagem-do-site.png)
+![Site Ideal Point Mobile](asserts/imagem-do-site-mobile.png)
 
 ## 🚀 Tecnologias
 ````
@@ -13,5 +14,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Ideal Point, é um agregador de links para usar como cartão de visitas online.
 ````
 ## OBS:
+````
 Cardápio incompleto pois ainda está passado por mudanças
 ````
