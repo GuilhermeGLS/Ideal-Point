@@ -1,5 +1,4 @@
 ![Site Ideal Point](asserts/imagem-do-site.png)
-![Site Ideal Point Mobile](asserts/imagem-do-site-mobile.png)
 
 ## 🚀 Tecnologias
 ````
